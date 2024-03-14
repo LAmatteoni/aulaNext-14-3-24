@@ -1,0 +1,48 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+main{
+    width: 100%;
+    height: 3000px;
+    background-color: blue;
+}
+
+header{
+    width: 100%;
+    height: 150px;
+    background-color: rgb(216, 125, 82);
+}
+
+.content{
+    width: 80%;
+    background-color: antiquewhite;
+}
+
+.carrossel{
+    width: 100%;
+    height: 300px;
+    background-color: brown;
+    margin: 20px 0;
+}
+
+.content-card{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.card{
+    background-color: blueviolet;
+    width: 100%;
+    height: 300px;
+    padding: 10px;
+}
+
+.footer{
+    width: 80%;
+    background-color: antiquewhite;
+}
